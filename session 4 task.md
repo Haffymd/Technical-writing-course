@@ -1,6 +1,6 @@
 # Instruction Manual for Clay Cutter Machines:
 
-Table of Contents
+## Table of Contents
 1.	Introduction
 2.	Safety Precautions
 3.	Machine Components
