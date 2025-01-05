@@ -1,4 +1,4 @@
-#Instruction Manual for Clay Cutter Machines:
+# Instruction Manual for Clay Cutter Machines:
 
 Table of Contents
 1.	Introduction
